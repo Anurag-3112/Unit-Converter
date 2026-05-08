@@ -6,7 +6,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 
 ---
+## Index
+- [Preview](https://github.com/Anurag-3112/Unit-Converter#preview)
+- [Features](https://github.com/Anurag-3112/Unit-Converter#features)
+- [Tech Stack](https://github.com/Anurag-3112/Unit-Converter#tech-stack)
+- [How It Works](https://github.com/Anurag-3112/Unit-Converter#how-it-works)
+- [Author](https://github.com/Anurag-3112/Unit-Converter#author)
 
+---
 # Preview
 
 <p align="center">
