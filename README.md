@@ -10,11 +10,15 @@
 # Preview
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="800" alt="Unit Converter Screenshot 1"/>
+  <img src="assets/image1.png" width="800" alt="Unit Converter Screenshot 1"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot2.png" width="800" alt="Unit Converter Screenshot 2"/>
+  <img src="assets/image2.png" width="800" alt="Unit Converter Screenshot 2"/>
+</p>
+
+<p align="center">
+  <img src="assets/image3.png" width="800" alt="Unit Converter Screenshot 2"/>
 </p>
 
 ---
